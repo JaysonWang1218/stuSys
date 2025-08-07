@@ -1,0 +1,71 @@
+{
+  "students": [
+    {
+      "name": "yajing",
+      "age": "34",
+      "phone": "123-345-678",
+      "email": "yajing@hotmail.com",
+      "education": "fasdfasfd",
+      "graduationschool": "fasfasdf",
+      "profession": "sdfasdfafd",
+      "profile": "asdfasdfqsqdf;l'kmsdfa;'l",
+      "id": "3"
+    },
+    {
+      "name": "xizhi",
+      "age": 47,
+      "phone": "13112341234",
+      "email": "1234567@qq.com",
+      "education": "硕士",
+      "graduationschool": "北京大学",
+      "profession": "前端开发工程师",
+      "profile": "大家好!",
+      "id": "2"
+    },
+    {
+      "id": "d119",
+      "name": "Jayson Wang",
+      "age": "12",
+      "phone": "18068828803",
+      "email": "484712474@qq.com",
+      "education": "本科",
+      "graduationschool": "渡一大学",
+      "profession": "牛马",
+      "profile": "啊SDJAO皮"
+    },
+    {
+      "id": "121c",
+      "name": "谢杰",
+      "age": "20",
+      "phone": "333444555",
+      "email": "xiejie@gmail.com",
+      "education": "本科",
+      "graduationschool": "asdfasfd",
+      "profession": "asdfasdf",
+      "profile": "nihao"
+    },
+    {
+      "id": "94d0",
+      "name": "旺仔",
+      "age": "22",
+      "phone": "15516422224",
+      "email": "123@qq.com",
+      "education": "本科",
+      "graduationschool": "五道口职业技术学院",
+      "profession": "马农",
+      "profile": "帅比一个"
+    }
+  ],
+  "classes": [
+    {
+      "id": "1",
+      "name": "前端01班",
+      "description": "这是一个积极向上的班级"
+    },
+    {
+      "id": "2",
+      "name": "前端02班",
+      "description": "这也是一个非常积极向上的班级"
+    }
+  ]
+}
